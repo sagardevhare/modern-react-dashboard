@@ -3,7 +3,7 @@
 A beautiful and responsive admin dashboard built with React, TypeScript, Tailwind CSS, and Recharts. This dashboard features various data visualizations, interactive components, and a modern design.
 
 ![Dashboard Preview](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000)
-
+Live Preview (https://delicate-tarsier-fcacaa.netlify.app)
 ## Features
 
 - 📊 Interactive Charts and Graphs
@@ -100,3 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons provided by [Lucide Icons](https://lucide.dev)
 - Charts powered by [Recharts](https://recharts.org)
 - Maps powered by [React Simple Maps](https://www.react-simple-maps.io)
+
+Contact Detailes
+Name- Sagar Devhare
+Email- sagardevhare2711@gmail.com
